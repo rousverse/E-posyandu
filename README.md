@@ -7,7 +7,7 @@ dan pengelolaan data pemeriksaan secara digital. Sistem ini mempermudah proses p
 2. Input Data Anak
 3. Pencatatan Pemeriksaan
 4. Riwayat Pemeriksaan
-5. Edit & Hapus Data
+5. CRUD
 
 # Cara Menjalankan Project
 1. pindahkan project ke
