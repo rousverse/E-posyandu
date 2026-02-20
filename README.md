@@ -4,10 +4,9 @@ dan pengelolaan data pemeriksaan secara digital. Sistem ini mempermudah proses p
 
 # Fitur
 1. Login Admin
-2. Input Data Anak
+2. Manajemen Data Anak (Tambah, Edit, Hapus)
 3. Pencatatan Pemeriksaan
 4. Riwayat Pemeriksaan
-5. CRUD
 
 # Cara Menjalankan Project
 1. pindahkan project ke
